@@ -5,11 +5,11 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.17.496550v1'
+citation: 'Matt De Vries, Lucas Dent, Nathan Curry, Leo Rowe-Brown, Adam Tyson, Christopher Dunsby, and Chris Bakal. 3D single-cell shape analysis of cancer cells using geometric deep learning. bioRxiv, 2022.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Aberrations in cell geometry are linked to cell signalling and disease. For example, metastatic melanoma cells alter their shape to invade tissues and drive disease. Despite this, there is a paucity of methods to quantify cell shape in 3D and little understanding of the shape-space cells explore. Currently, most descriptions of cell shape rely on predefined measurements of cell regions or points along a perimeter. The adoption of 3D tissue culture and imaging systems in medical research has recently created a growing need for comprehensive 3D shape descriptions of cells. We have addressed this need using unsupervised geometric deep learning to learn shape representations of cells from 3D microscopy images of metastatic melanoma cells embedded in collagen tissue-like matrices. We used a dynamic graph convolutional foldingnet autoencoder with improved deep embedded clustering to simultaneously learn lower-dimensional representations and classes of 3D cell shapes from a dataset of more than 70,000 drug-treated melanoma cells imaged by high throughput light-sheet microscopy. We propose describing cell shape using 3D quantitative morphological signatures, which represent a cell's similarity to shape modes in the dataset, and are a direct output from our model. We used the extracted features to reveal the extent of the cell shape landscape and found that the shapes learned could predict drug treatment (up to 86% accuracy) and cell microenvironment, and are explainable. In particular, we found strikingly similar deep learning shape signatures between cells treated with microtubule polymerisation inhibitors and branched actin inhibitors. Finally, we implemented our methods as a Python package for ease of use by the medical research community.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.iorxiv.org/content/10.1101/2022.06.17.496550v1)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Matt De Vries, Lucas Dent, Nathan Curry, Leo Rowe-Brown, Adam Tyson, Christopher Dunsby, and Chris Bakal. 3D single-cell shape analysis of cancer cells using geometric deep learning. bioRxiv, 2022.
