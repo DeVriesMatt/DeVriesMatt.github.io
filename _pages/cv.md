@@ -20,11 +20,13 @@ Work experience
 
 * Oct 2020 -- Present: PhD Researcher
   * Joined Institute of Cancer Research and Imperial College London
-  * Thesis title: Tumour evolution in super-resolution: Developing new Artificial Intelligence-based methods to analyse 4D imaging data of tumour communities.
+  * Thesis title: Tumour evolution in super-resolution: Developing new Artificial Intelligence-based methods to analyse 4D imaging data of tumours.
   * Duties included: 
     * Developed graph-based deep learning-based 3D shape analysis tools to profile melanoma cancer cells. 
-    * Developed method to learn feature representations from 3D time-series data of melanoma spheroids.
+    * Developed method to learn feature representations from 3D+t mcroscopy images of melanoma spheroids.
     * Involved in recruiting and interviewing Senior Software Engineers.
+    * Involved in starting a spin-off company based on the results from my project and attended Accerlerator for this start-up.
+    * Published peer-reviewed articles.
   * Tools: Python, PyTorch, GitHub
   * Supervisors: 
     * Prof. Chris Bakal (ICR)
@@ -65,14 +67,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep learning
+* Computer vision
+* Mathematics
+* Statistical learning
+* Python
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -92,4 +93,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
