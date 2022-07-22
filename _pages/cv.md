@@ -19,7 +19,7 @@ Work experience
 ======
 
 * Oct 2020 -- Present: PhD Researcher
-  * Joined Institute of Cancer Research and Imperial College London
+  * Joined between Institute of Cancer Research and Imperial College London
   * Thesis title: Tumour evolution in super-resolution: Developing new Artificial Intelligence-based methods to analyse 4D imaging data of tumours.
   * Duties included: 
     * Developed graph-based deep learning-based 3D shape analysis tools to profile melanoma cancer cells. 
