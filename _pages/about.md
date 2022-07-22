@@ -1,4 +1,15 @@
-### Hi there 👋
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hi there 👋
+======
 
 🔭 I’m currently working on:
 - Graph-based networks for analysing 3D images of live cancer biology.
