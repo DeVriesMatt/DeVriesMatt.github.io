@@ -2,7 +2,7 @@
 title: "Predicting response to neoadjuvant therapy using image capture from diagnostic biopsies of oesophageal adenocarcinoma"
 collection: publications
 permalink: /publication/2020-predicting-response
-exceprt: 
+exceprt: ''
 date: 2021-01-01
 venue: 'European Journal of Surgical Oncology'
 paperurl: 'https://github.com/DeVriesMatt/DeVriesMatt.github.io/blob/master/files/2020-predicting-response.pdf'
