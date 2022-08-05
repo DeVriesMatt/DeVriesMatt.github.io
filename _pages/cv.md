@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons) Statistics, University of Cape Town, 2018 (First class honors)
-* M.Sc. Artificial Intelligence, University of Southampton, 2020 (Distinction)
+* B.Sc. (Hons) Statistics, University of Cape Town, 2018 (First class honors 75%) 
+* M.Sc. Artificial Intelligence, University of Southampton, 2020 (Distinction 89%)
 * Ph.D. Artificial Intelligence for Cancer Biology, Institute of Cancer Research and Imperial College London, 2024 (expected)
 
 Work experience
